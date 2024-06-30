@@ -1,16 +1,17 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Himanshu Kakkar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Data Scientist'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ![image](https://github.com/kakkar01/theme-portfolio/assets/61901683/c6982c55-6107-4707-ad31-a8e2467818cf)
+
 
 # Organizations/Affiliations
 #organizations:
