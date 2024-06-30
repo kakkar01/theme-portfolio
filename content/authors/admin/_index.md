@@ -10,7 +10,7 @@ role: 'Data Scientist'
 
 # Status emoji
 status:
-  icon: ![image](https://github.com/kakkar01/theme-portfolio/assets/61901683/c6982c55-6107-4707-ad31-a8e2467818cf)
+  icon: 👨🏻‍💻
 
 
 # Organizations/Affiliations
@@ -19,7 +19,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi! I’m Himanshu, a data specialist with a strong background in data analysis, quality control, and dashboard development, currently pursuing a Post-Graduate Diploma in Applied AI Solution Architecture at George Brown College. I have expertise in SQL, Python, ETL development, and data visualization.  I am passionate about leveraging my skills to drive strategic decision-making and innovation, contributing to impactful outcomes and collaborating towards achieving organizational goals through teamwork and advanced technology solutions.
 
 #interests:
 #- Artificial Intelligence
@@ -28,7 +28,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
+#  - course: 
 #    institution: Stanford University
 #    year: 2012
 #  - course: MEng in Artificial Intelligence
@@ -45,13 +45,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:himanshu.kakkar@georgebrown.ca.
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/kakkar01
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/himanshu-kakkar-70121b154/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -64,11 +64,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "himanshu.kakkar@georgebrown.ca"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Detail-oriented Data Specialist with a strong background in data analysis, quality control, and dashboard development. Currently pursuing a Post-Graduate Diploma in Applied AI Solution Architecture at George Brown College, I am driven by a passion to leverage my expertise in SQL, Python, ETL development, and data visualization to inform strategic decision-making. My aim is to drive impactful outcomes while actively contributing to Capital One innovative financial technology solutions and collaborating towards achieving organizational goals through innovation and teamwork.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
